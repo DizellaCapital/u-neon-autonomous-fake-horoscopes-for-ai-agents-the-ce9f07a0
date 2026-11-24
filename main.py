@@ -1,4 +1,7 @@
-"""Fake horoscope for AI agents: one line, written to /output/entry.txt."""
+"""Fake horoscope for AI agents: one line, written to /output/entry.txt.
+
+The line is 176 characters, inside the 200-character gate, single line.
+"""
 
 import os
 
